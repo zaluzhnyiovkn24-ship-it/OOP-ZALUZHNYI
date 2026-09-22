@@ -22,7 +22,7 @@
 
 1. Клонувати репозиторій:
    ```bash
-   git clone 
+   git clone https://github.com/zaluzhnyiovkn24-ship-it/OOP-ZALUZHNYI/tree/main/lab3v10
 
 ---
 ## Приклад
