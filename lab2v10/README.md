@@ -21,7 +21,7 @@
 ## Як запустити проєкт
 1. Клонувати репозиторій:
    ```bash
-   git clone 
+   git clone https://github.com/zaluzhnyiovkn24-ship-it/OOP-ZALUZHNYI/tree/main/lab2v10
 
 ---
 ## Приклад 
